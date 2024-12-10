@@ -8,6 +8,7 @@ CREATE TABLE departamento (
   presupuesto DOUBLE UNSIGNED NOT NULL,
   gastos DOUBLE UNSIGNED NOT NULL
 );
+gdsg
 
 CREATE TABLE empleado (
   id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
